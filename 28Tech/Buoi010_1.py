@@ -1,0 +1,11 @@
+X = int(input())
+Y = int(input())
+Z = str(input())
+F = float(input())
+D = float(input())
+
+print(X)
+print(Y)
+print(z)
+print("%.2f", F)
+print("%.2f", D)
